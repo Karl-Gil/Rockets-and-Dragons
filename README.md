@@ -8,4 +8,4 @@ Rockets and Dragons is an app which is designed to promote safer internet usage 
 
 
 # Would you like more information on Rockets and Dragons?
-You can visit my website created for Rockets and Dragons: www.RocketsAndDragon.ie or you can get in touch by emailing me: karl@rocketsanddragons.ie 
+You can visit my website created for Rockets and Dragons: www.RocketsAndDragons.ie or you can get in touch by emailing me: karl@rocketsanddragons.ie 
