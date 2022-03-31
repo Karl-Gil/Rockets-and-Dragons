@@ -10,7 +10,7 @@ Rockets and Dragons is an app which is designed to promote safer internet usage 
 # How does the app work?
 Each Rocket and Dragon has a key word. These key words correspond to the various key cards which I have created. I have designed the app in a way that the key words can be related to the lives of our younger socity. An example of a key card is " Cookies", which explains what are cookies and how they can effect our online presence. Each card consists of a few bullet points which have been audio described by me and which is buit directly into the app.
 
-# Demo
+# Demonstration
 I have produced a demo video which shows how the app functions, this demo can be viewed here https://rocketsanddragons.ie/app-demonstration
 
 
